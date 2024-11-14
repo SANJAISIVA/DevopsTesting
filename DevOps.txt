@@ -1,0 +1,51 @@
+-> DevOps is the union of people, process, and products to enable continuous delivery of value to our end users.
+-> Azure Boards : These are agile tools that help us plan, track, and discuss our work, even with other teams.
+
+
+why DevOps?
+
+distance, natural hazards
+
+version control 
+
+devops eng
+devops administrator
+
+
+Azure DevOps Board:
+1. Work Items --> To track our tasks and user stories. 
+		  Split every feature to separate module.
+
+2. Board  ------> New, Active, Resolved (These 3 comes under Developer Roles), and 
+		  Closed (After the testing the work item will go into closed State).
+
+3. Backlogs ----> If you are working in a application with 10 features you can't do everything at once.
+		  The untouched feature works will stay here. Once the ongoing feature(User Story) is 
+		  complete then we pull the next feature that we need to work on.
+
+4. Sprint  -----> 1 sprint lasts for 1 or 2 weeks. Assigning a feature to the sprint means that 
+		  within a deadline we should finish the task, in the worst case senario move that
+		  feature work to next Sprint. And after finishing one particular feature work, we
+		  can deliver the product after each sprint means, Continuous delivery. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
